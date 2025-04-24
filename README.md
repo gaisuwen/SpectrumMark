@@ -1,5 +1,6 @@
 # SpectrumMark
 ENGLISH | [中文](https://github.com/gaisuwen/SpectrumMark/blob/main/README_CN.md) 
+
 SpectrumMark is a tool designed for batch-adding captions and automatically generating bookmarks for spectra in pharmaceutical registration submissions.  
 This tool can batch-insert specified text into each page of a PDF spectrum file at a designated position and automatically generate a bookmark directory for each page, making it easier to organize and review submission materials.
 
