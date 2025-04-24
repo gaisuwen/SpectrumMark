@@ -1,5 +1,5 @@
 # SpectrumMark
-ENGLISH[README.MD](https://github.com/gaisuwen/SpectrumMark/edit/main/README.md) | 中文[README_CN.MD](https://github.com/gaisuwen/SpectrumMark/edit/main/README_CN.md)
+ [ENGLISH](https://github.com/gaisuwen/SpectrumMark/blob/main/README.md)| 中文
 
 SpectrumMark 是一个用于药品注册申报的图谱批量加下标与自动生成书签的工具。  
 本工具可将指定文本内容批量插入到 PDF 图谱文件的每一页指定位置，并自动为每页生成目录书签，方便申报资料整理与查阅。
