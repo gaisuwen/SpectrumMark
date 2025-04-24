@@ -9,7 +9,7 @@ from tkinter import filedialog, messagebox, scrolledtext
 # --------------------- 辅助函数 ---------------------
 def is_chinese(char):
     """
-    判断单个字符是否为中文（常见汉字 Unicode 区间 \u0800 ~ \uFFFF）
+    判断单个字符是否为双字节字符（常见双字节字符 Unicode 区间 \u0800 ~ \uFFFF）
     """
     return "\u0800" <= char <= "\uFFFF"
 
